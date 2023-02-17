@@ -1,0 +1,9 @@
+#!/bin/bash
+echo "Enter Two numbers:"
+read a
+read b
+
+echo "Enter your Choice given below"
+echo "1. Add"
+echo "2. sub"
+echo "30
